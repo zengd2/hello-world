@@ -1,2 +1,2 @@
 # hello-world
-first thing
+Hello this is Dong, trying to use github
